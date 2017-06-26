@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Android Tutorial</string>
+    <string name="article_subtitle">Android Beginners</string>
+    <string name="article_text"><b><i>Android History</i></b> - é simplesmente uma simulação de texto da indústria
+        tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor
+        desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de
+        tipos. https://developer.android.com/
+
+        \n\n<b><i>Android Versions</i></b> - sobreviveu não só a cinco séculos, como também ao salto para a editoração
+        eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a
+        Letraset lançou decalques contendo passagens de Lorem Ipsum,
+        e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como
+        Aldus PageMaker.
+
+        \n\n<b><i>Android Begginers</i></b> - sobreviveu não só a cinco séculos, como também ao salto para a editoração
+        eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a
+        Letraset lançou decalques contendo passagens de Lorem Ipsum,
+        e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como
+        Aldus PageMaker.
+    </string>
+</resources>
